@@ -2,8 +2,8 @@
 
 > What you want to do
 
-`css
+```css
 h1 {
-    background-color: "#fff"
-  }
-`
+  background-color: "#fff";
+}
+```
